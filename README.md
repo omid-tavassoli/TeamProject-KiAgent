@@ -39,6 +39,25 @@ git commit -m "your change"git commit -m "your change"
 
 Git push
 
+Quick diagnosis::
+
+git status
+
+git branch -vv
+
+git remote -v
+
+git log --oneline --decorate --graph --all --max-count=15
+
+If status shows uncommitted changes, commit or stash before pulling.
+
+If branch -vv shows your main is behind origin/main, you need to pull.
+
+remote is ahead::
+
+git pull --rebase origin main
+
+git push
 
 TO UPDATE THE ONLINE SERVER::(only omid do 'thanks')
 
