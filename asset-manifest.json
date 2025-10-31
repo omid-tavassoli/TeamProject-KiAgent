@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TeamProject-KiAgent/static/js/main.fbf4a287.js",
+    "main.js": "/TeamProject-KiAgent/static/js/main.e4a6fdd3.js",
     "index.html": "/TeamProject-KiAgent/index.html",
-    "main.fbf4a287.js.map": "/TeamProject-KiAgent/static/js/main.fbf4a287.js.map"
+    "main.e4a6fdd3.js.map": "/TeamProject-KiAgent/static/js/main.e4a6fdd3.js.map"
   },
   "entrypoints": [
-    "static/js/main.fbf4a287.js"
+    "static/js/main.e4a6fdd3.js"
   ]
 }
