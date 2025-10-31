@@ -1,6 +1,6 @@
 # Getting Started
 
-TO CONNECT TO THE GITHUB::(only for the first time)
+//TO CONNECT TO THE GITHUB::(only for the first time)
 
 git --version
 
@@ -31,15 +31,16 @@ git branch -M main
 git push -u origin main
 
 
-TO UPDATE THE CODE ::(after doing the stuff on top only use these)
+//TO UPDATE THE CODE ::(after doing the stuff on top only use these)
 
 Git add .
 
-git commit -m "your change"git commit -m "your change"
+git commit -m "your change"
 
 Git push
 
-Quick diagnosis::
+
+//DIAGNOSIS::
 
 git status
 
@@ -53,13 +54,14 @@ If status shows uncommitted changes, commit or stash before pulling.
 
 If branch -vv shows your main is behind origin/main, you need to pull.
 
-remote is ahead::
+REMOTE IS AHEAD::
 
 git pull --rebase origin main
 
 git push
 
-TO UPDATE THE ONLINE SERVER::(only omid do 'thanks')
+
+//TO UPDATE THE ONLINE SERVER::(only omid do 'thanks')
 
 Npm run build
 
