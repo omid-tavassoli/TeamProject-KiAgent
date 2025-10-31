@@ -35,7 +35,7 @@ TO UPDATE THE CODE ::(after doing the stuff on top only use these)
 
 Git add .
 
-git commit -m "your change"
+git commit -m "your change"git commit -m "your change"
 
 Git push
 
