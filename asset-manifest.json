@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/omid-tavassoli/TeamProject-KiAgent.git/static/js/main.f57f0672.js",
-    "index.html": "/omid-tavassoli/TeamProject-KiAgent.git/index.html",
-    "main.f57f0672.js.map": "/omid-tavassoli/TeamProject-KiAgent.git/static/js/main.f57f0672.js.map"
+    "main.js": "/TeamProject-KiAgent/static/js/main.f57f0672.js",
+    "index.html": "/TeamProject-KiAgent/index.html",
+    "main.f57f0672.js.map": "/TeamProject-KiAgent/static/js/main.f57f0672.js.map"
   },
   "entrypoints": [
     "static/js/main.f57f0672.js"
